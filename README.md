@@ -23,6 +23,6 @@ We all know the struggle of starting a new project. Install all the necessary pa
 - `npm build` - builds the app for production to the `build` folder.
 - `npm eject` - exposes content of react-script package.
 
-# Sorce
+# Source
 
 I use this article to [this](https://dev.to/alexandrg/how-to-create-custom-create-react-app-cra-templates-3nca ) build by Alexander Grischuk.
