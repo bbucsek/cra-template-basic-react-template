@@ -25,4 +25,4 @@ We all know the struggle of starting a new project. Install all the necessary pa
 
 # Source
 
-I use this article to [this](https://dev.to/alexandrg/how-to-create-custom-create-react-app-cra-templates-3nca ) build by Alexander Grischuk.
+I use [this article by Alexander Grischuk](https://dev.to/alexandrg/how-to-create-custom-create-react-app-cra-templates-3nca ) to create this tempalte.
