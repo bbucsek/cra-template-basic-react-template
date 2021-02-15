@@ -1,5 +1,8 @@
 ## This is a Create React App Template
 
+# Usage
+npx create-react-app your-project-name --template react-basic
+
 This template was created to make it easier to create a new react typescript app with all the necessary boilerplate code.
 This template was set up with:
 - redux, redux toolkit, redux thunk
