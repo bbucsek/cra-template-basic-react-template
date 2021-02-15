@@ -26,7 +26,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bbucsek/bbucsek-cra-template-basic-template",
+    "url": "https://github.com/bbucsek/cra-template-basic-react-template",
     "directory": "/"
   },
   "dependencies": {
