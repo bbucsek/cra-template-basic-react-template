@@ -2,6 +2,7 @@
 
 This template was created to make it easier to create a new react typescript app with all the necessary boilerplate code.
 This template was set up with:
+- typescript
 - redux, redux toolkit, redux thunk
 - styled components with a theme object
 - react router dom 
