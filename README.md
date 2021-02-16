@@ -12,6 +12,10 @@ Original Create React App README available [here](https://github.com/facebook/cr
 
 `npx create-react-app your-project-name --template react-basic`
 
+or yarn
+
+`yarn create react-app your-project-name --template react-basic`
+
 # Motivation
 
 We all know the struggle of starting a new project. Install all the necessary package, delete the unnecessary files/lines, set up the route and the theme... Thats why I create this template, to make it much quicker to start a new react project. 
